@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @abuduj3na
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning C#, HTML, Css
+- 📫 meric.ucar@icloud.com
