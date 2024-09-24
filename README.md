@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @abuduj3na
 - 👀 I’m interested in Programming
+- 🧑‍🎓 Student of PXL Hasselt
 - 🌱 I’m currently learning C#, HTML, Css
 - 📫 meric.ucar@icloud.com
